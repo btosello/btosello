@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @btosello
 - 👀 I’m interested in Devops
 - 🌱 I’m currently learning everyday
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me +54 9351 2468856
+- 📫 How to reach me +54 9351 2468856 / benjatosello@gmail.com
 
 <!---
 btosello/btosello is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
