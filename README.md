@@ -7,10 +7,10 @@
 
 ---
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/btosello"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
-<p align="center">
+<p align="left">
 <a href="https://www.buymeacoffee.com/btosello" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 </p>
 
